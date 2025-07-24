@@ -1241,6 +1241,7 @@
       "Microsoft.AspNetCore.Authentication.JwtBearer >= 8.0.0",
       "Microsoft.AspNetCore.Identity.EntityFrameworkCore >= 8.0.0",
       "Microsoft.Extensions.Logging.Abstractions >= 8.0.0",
+      "Microsoft.IdentityModel.Protocols.OpenIdConnect >= 7.0.3",
       "System.IdentityModel.Tokens.Jwt >= 7.0.3",
       "VendingMachine.Domain >= 1.0.0"
     ]
@@ -1319,6 +1320,10 @@
           "Microsoft.Extensions.Logging.Abstractions": {
             "target": "Package",
             "version": "[8.0.0, )"
+          },
+          "Microsoft.IdentityModel.Protocols.OpenIdConnect": {
+            "target": "Package",
+            "version": "[7.0.3, )"
           },
           "System.IdentityModel.Tokens.Jwt": {
             "target": "Package",

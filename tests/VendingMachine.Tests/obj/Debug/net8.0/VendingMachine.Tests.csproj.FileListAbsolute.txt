@@ -520,3 +520,4 @@ C:\powerbi\FlapKap\code\VendingMachine\tests\VendingMachine.Tests\obj\Debug\net8
 C:\powerbi\FlapKap\code\VendingMachine\tests\VendingMachine.Tests\obj\Debug\net8.0\VendingMachine.Tests.pdb
 C:\powerbi\FlapKap\code\VendingMachine\tests\VendingMachine.Tests\obj\Debug\net8.0\VendingMachine.Tests.genruntimeconfig.cache
 C:\powerbi\FlapKap\code\VendingMachine\tests\VendingMachine.Tests\obj\Debug\net8.0\ref\VendingMachine.Tests.dll
+C:\powerbi\FlapKap\code\VendingMachine\tests\VendingMachine.Tests\obj\Debug\net8.0\VendingMachine.Tests.sourcelink.json

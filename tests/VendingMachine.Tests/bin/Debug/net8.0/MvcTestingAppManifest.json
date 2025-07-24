@@ -1,6 +1,0 @@
-{
-  "VendingMachine.API, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "C:\\powerbi\\FlapKap\\code\\VendingMachine\\src\\VendingMachine.API",
-  "VendingMachine.Application, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "C:\\powerbi\\FlapKap\\code\\VendingMachine\\src\\VendingMachine.Application",
-  "VendingMachine.Domain, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "C:\\powerbi\\FlapKap\\code\\VendingMachine\\src\\VendingMachine.Domain",
-  "VendingMachine.Infrastructure, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "C:\\powerbi\\FlapKap\\code\\VendingMachine\\src\\VendingMachine.Infrastructure"
-}
