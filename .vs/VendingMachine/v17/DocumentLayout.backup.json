@@ -1,0 +1,228 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\powerbi\\FlapKap\\code\\VendingMachine\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A17EECA0-4025-4FC0-AD49-ED18014853D2}|tests\\VendingMachine.Tests\\VendingMachine.Tests.csproj|c:\\powerbi\\flapkap\\code\\vendingmachine\\tests\\vendingmachine.tests\\controllers\\productscontrollertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A17EECA0-4025-4FC0-AD49-ED18014853D2}|tests\\VendingMachine.Tests\\VendingMachine.Tests.csproj|solutionrelative:tests\\vendingmachine.tests\\controllers\\productscontrollertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A17EECA0-4025-4FC0-AD49-ED18014853D2}|tests\\VendingMachine.Tests\\VendingMachine.Tests.csproj|c:\\powerbi\\flapkap\\code\\vendingmachine\\tests\\vendingmachine.tests\\controllers\\userscontrollertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A17EECA0-4025-4FC0-AD49-ED18014853D2}|tests\\VendingMachine.Tests\\VendingMachine.Tests.csproj|solutionrelative:tests\\vendingmachine.tests\\controllers\\userscontrollertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1B2C3D4-E5F6-7890-ABCD-EF1234567890}|src\\VendingMachine.API\\VendingMachine.API.csproj|c:\\powerbi\\flapkap\\code\\vendingmachine\\src\\vendingmachine.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1B2C3D4-E5F6-7890-ABCD-EF1234567890}|src\\VendingMachine.API\\VendingMachine.API.csproj|solutionrelative:src\\vendingmachine.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B52DA0C3-AC0C-4279-93FA-A50419C8F8DE}|src\\VendingMachine.Application\\VendingMachine.Application.csproj|c:\\powerbi\\flapkap\\code\\vendingmachine\\src\\vendingmachine.application\\services\\iauthservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B52DA0C3-AC0C-4279-93FA-A50419C8F8DE}|src\\VendingMachine.Application\\VendingMachine.Application.csproj|solutionrelative:src\\vendingmachine.application\\services\\iauthservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A17EECA0-4025-4FC0-AD49-ED18014853D2}|tests\\VendingMachine.Tests\\VendingMachine.Tests.csproj|c:\\powerbi\\flapkap\\code\\vendingmachine\\tests\\vendingmachine.tests\\handlers\\vendingmachinehandlerstests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A17EECA0-4025-4FC0-AD49-ED18014853D2}|tests\\VendingMachine.Tests\\VendingMachine.Tests.csproj|solutionrelative:tests\\vendingmachine.tests\\handlers\\vendingmachinehandlerstests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A17EECA0-4025-4FC0-AD49-ED18014853D2}|tests\\VendingMachine.Tests\\VendingMachine.Tests.csproj|c:\\powerbi\\flapkap\\code\\vendingmachine\\tests\\vendingmachine.tests\\handlers\\producthandlerstests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A17EECA0-4025-4FC0-AD49-ED18014853D2}|tests\\VendingMachine.Tests\\VendingMachine.Tests.csproj|solutionrelative:tests\\vendingmachine.tests\\handlers\\producthandlerstests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A17EECA0-4025-4FC0-AD49-ED18014853D2}|tests\\VendingMachine.Tests\\VendingMachine.Tests.csproj|c:\\powerbi\\flapkap\\code\\vendingmachine\\tests\\vendingmachine.tests\\handlers\\userhandlerstests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A17EECA0-4025-4FC0-AD49-ED18014853D2}|tests\\VendingMachine.Tests\\VendingMachine.Tests.csproj|solutionrelative:tests\\vendingmachine.tests\\handlers\\userhandlerstests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5AEAF282-36C3-4F03-A2DF-082B103EC91C}|src\\VendingMachine.Domain\\VendingMachine.Domain.csproj|c:\\powerbi\\flapkap\\code\\vendingmachine\\src\\vendingmachine.domain\\valueobjects\\coin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5AEAF282-36C3-4F03-A2DF-082B103EC91C}|src\\VendingMachine.Domain\\VendingMachine.Domain.csproj|solutionrelative:src\\vendingmachine.domain\\valueobjects\\coin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5AEAF282-36C3-4F03-A2DF-082B103EC91C}|src\\VendingMachine.Domain\\VendingMachine.Domain.csproj|c:\\powerbi\\flapkap\\code\\vendingmachine\\src\\vendingmachine.domain\\entities\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5AEAF282-36C3-4F03-A2DF-082B103EC91C}|src\\VendingMachine.Domain\\VendingMachine.Domain.csproj|solutionrelative:src\\vendingmachine.domain\\entities\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B52DA0C3-AC0C-4279-93FA-A50419C8F8DE}|src\\VendingMachine.Application\\VendingMachine.Application.csproj|c:\\powerbi\\flapkap\\code\\vendingmachine\\src\\vendingmachine.application\\services\\vendingmachineservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B52DA0C3-AC0C-4279-93FA-A50419C8F8DE}|src\\VendingMachine.Application\\VendingMachine.Application.csproj|solutionrelative:src\\vendingmachine.application\\services\\vendingmachineservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B52DA0C3-AC0C-4279-93FA-A50419C8F8DE}|src\\VendingMachine.Application\\VendingMachine.Application.csproj|c:\\powerbi\\flapkap\\code\\vendingmachine\\src\\vendingmachine.application\\services\\ivendingmachineservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B52DA0C3-AC0C-4279-93FA-A50419C8F8DE}|src\\VendingMachine.Application\\VendingMachine.Application.csproj|solutionrelative:src\\vendingmachine.application\\services\\ivendingmachineservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B52DA0C3-AC0C-4279-93FA-A50419C8F8DE}|src\\VendingMachine.Application\\VendingMachine.Application.csproj|c:\\powerbi\\flapkap\\code\\vendingmachine\\src\\vendingmachine.application\\services\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B52DA0C3-AC0C-4279-93FA-A50419C8F8DE}|src\\VendingMachine.Application\\VendingMachine.Application.csproj|solutionrelative:src\\vendingmachine.application\\services\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ProductsControllerTests.cs",
+              "DocumentMoniker": "C:\\powerbi\\FlapKap\\code\\VendingMachine\\tests\\VendingMachine.Tests\\Controllers\\ProductsControllerTests.cs",
+              "RelativeDocumentMoniker": "tests\\VendingMachine.Tests\\Controllers\\ProductsControllerTests.cs",
+              "ToolTip": "C:\\powerbi\\FlapKap\\code\\VendingMachine\\tests\\VendingMachine.Tests\\Controllers\\ProductsControllerTests.cs",
+              "RelativeToolTip": "tests\\VendingMachine.Tests\\Controllers\\ProductsControllerTests.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-23T23:58:12.798Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UsersControllerTests.cs",
+              "DocumentMoniker": "C:\\powerbi\\FlapKap\\code\\VendingMachine\\tests\\VendingMachine.Tests\\Controllers\\UsersControllerTests.cs",
+              "RelativeDocumentMoniker": "tests\\VendingMachine.Tests\\Controllers\\UsersControllerTests.cs",
+              "ToolTip": "C:\\powerbi\\FlapKap\\code\\VendingMachine\\tests\\VendingMachine.Tests\\Controllers\\UsersControllerTests.cs",
+              "RelativeToolTip": "tests\\VendingMachine.Tests\\Controllers\\UsersControllerTests.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-23T23:57:45.987Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\powerbi\\FlapKap\\code\\VendingMachine\\src\\VendingMachine.API\\Program.cs",
+              "RelativeDocumentMoniker": "src\\VendingMachine.API\\Program.cs",
+              "ToolTip": "C:\\powerbi\\FlapKap\\code\\VendingMachine\\src\\VendingMachine.API\\Program.cs",
+              "RelativeToolTip": "src\\VendingMachine.API\\Program.cs",
+              "ViewState": "AgIAAHoAAAAAAAAAAAAgwJMAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-23T23:56:26.285Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IAuthService.cs",
+              "DocumentMoniker": "C:\\powerbi\\FlapKap\\code\\VendingMachine\\src\\VendingMachine.Application\\Services\\IAuthService.cs",
+              "RelativeDocumentMoniker": "src\\VendingMachine.Application\\Services\\IAuthService.cs",
+              "ToolTip": "C:\\powerbi\\FlapKap\\code\\VendingMachine\\src\\VendingMachine.Application\\Services\\IAuthService.cs",
+              "RelativeToolTip": "src\\VendingMachine.Application\\Services\\IAuthService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-23T23:55:12.351Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "VendingMachineHandlersTests.cs",
+              "DocumentMoniker": "C:\\powerbi\\FlapKap\\code\\VendingMachine\\tests\\VendingMachine.Tests\\Handlers\\VendingMachineHandlersTests.cs",
+              "RelativeDocumentMoniker": "tests\\VendingMachine.Tests\\Handlers\\VendingMachineHandlersTests.cs",
+              "ToolTip": "C:\\powerbi\\FlapKap\\code\\VendingMachine\\tests\\VendingMachine.Tests\\Handlers\\VendingMachineHandlersTests.cs",
+              "RelativeToolTip": "tests\\VendingMachine.Tests\\Handlers\\VendingMachineHandlersTests.cs",
+              "ViewState": "AgIAACoAAAAAAAAAAAAgwEMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-23T23:54:43.799Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "UserHandlersTests.cs",
+              "DocumentMoniker": "C:\\powerbi\\FlapKap\\code\\VendingMachine\\tests\\VendingMachine.Tests\\Handlers\\UserHandlersTests.cs",
+              "RelativeDocumentMoniker": "tests\\VendingMachine.Tests\\Handlers\\UserHandlersTests.cs",
+              "ToolTip": "C:\\powerbi\\FlapKap\\code\\VendingMachine\\tests\\VendingMachine.Tests\\Handlers\\UserHandlersTests.cs",
+              "RelativeToolTip": "tests\\VendingMachine.Tests\\Handlers\\UserHandlersTests.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-23T23:54:21.352Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ProductHandlersTests.cs",
+              "DocumentMoniker": "C:\\powerbi\\FlapKap\\code\\VendingMachine\\tests\\VendingMachine.Tests\\Handlers\\ProductHandlersTests.cs",
+              "RelativeDocumentMoniker": "tests\\VendingMachine.Tests\\Handlers\\ProductHandlersTests.cs",
+              "ToolTip": "C:\\powerbi\\FlapKap\\code\\VendingMachine\\tests\\VendingMachine.Tests\\Handlers\\ProductHandlersTests.cs",
+              "RelativeToolTip": "tests\\VendingMachine.Tests\\Handlers\\ProductHandlersTests.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-23T23:54:00.819Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Coin.cs",
+              "DocumentMoniker": "C:\\powerbi\\FlapKap\\code\\VendingMachine\\src\\VendingMachine.Domain\\ValueObjects\\Coin.cs",
+              "RelativeDocumentMoniker": "src\\VendingMachine.Domain\\ValueObjects\\Coin.cs",
+              "ToolTip": "C:\\powerbi\\FlapKap\\code\\VendingMachine\\src\\VendingMachine.Domain\\ValueObjects\\Coin.cs",
+              "RelativeToolTip": "src\\VendingMachine.Domain\\ValueObjects\\Coin.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-23T23:53:09.275Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\powerbi\\FlapKap\\code\\VendingMachine\\src\\VendingMachine.Domain\\Entities\\Product.cs",
+              "RelativeDocumentMoniker": "src\\VendingMachine.Domain\\Entities\\Product.cs",
+              "ToolTip": "C:\\powerbi\\FlapKap\\code\\VendingMachine\\src\\VendingMachine.Domain\\Entities\\Product.cs",
+              "RelativeToolTip": "src\\VendingMachine.Domain\\Entities\\Product.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAQwBoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-23T23:52:38.196Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "VendingMachineService.cs",
+              "DocumentMoniker": "C:\\powerbi\\FlapKap\\code\\VendingMachine\\src\\VendingMachine.Application\\Services\\VendingMachineService.cs",
+              "RelativeDocumentMoniker": "src\\VendingMachine.Application\\Services\\VendingMachineService.cs",
+              "ToolTip": "C:\\powerbi\\FlapKap\\code\\VendingMachine\\src\\VendingMachine.Application\\Services\\VendingMachineService.cs",
+              "RelativeToolTip": "src\\VendingMachine.Application\\Services\\VendingMachineService.cs",
+              "ViewState": "AgIAAEMAAAAAAAAAAAAQwF0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-23T23:52:09.23Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "IVendingMachineService.cs",
+              "DocumentMoniker": "C:\\powerbi\\FlapKap\\code\\VendingMachine\\src\\VendingMachine.Application\\Services\\IVendingMachineService.cs",
+              "RelativeDocumentMoniker": "src\\VendingMachine.Application\\Services\\IVendingMachineService.cs",
+              "ToolTip": "C:\\powerbi\\FlapKap\\code\\VendingMachine\\src\\VendingMachine.Application\\Services\\IVendingMachineService.cs",
+              "RelativeToolTip": "src\\VendingMachine.Application\\Services\\IVendingMachineService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-23T23:51:22.647Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "AuthService.cs",
+              "DocumentMoniker": "C:\\powerbi\\FlapKap\\code\\VendingMachine\\src\\VendingMachine.Application\\Services\\AuthService.cs",
+              "RelativeDocumentMoniker": "src\\VendingMachine.Application\\Services\\AuthService.cs",
+              "ToolTip": "C:\\powerbi\\FlapKap\\code\\VendingMachine\\src\\VendingMachine.Application\\Services\\AuthService.cs",
+              "RelativeToolTip": "src\\VendingMachine.Application\\Services\\AuthService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-23T23:50:40.173Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

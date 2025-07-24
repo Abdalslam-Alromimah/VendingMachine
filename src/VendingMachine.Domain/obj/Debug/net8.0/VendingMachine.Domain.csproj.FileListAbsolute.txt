@@ -1,0 +1,12 @@
+C:\powerbi\FlapKap\code\VendingMachine\src\VendingMachine.Domain\obj\Debug\net8.0\VendingMachine.Domain.csproj.AssemblyReference.cache
+C:\powerbi\FlapKap\code\VendingMachine\src\VendingMachine.Domain\obj\Debug\net8.0\VendingMachine.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\powerbi\FlapKap\code\VendingMachine\src\VendingMachine.Domain\obj\Debug\net8.0\VendingMachine.Domain.AssemblyInfoInputs.cache
+C:\powerbi\FlapKap\code\VendingMachine\src\VendingMachine.Domain\obj\Debug\net8.0\VendingMachine.Domain.AssemblyInfo.cs
+C:\powerbi\FlapKap\code\VendingMachine\src\VendingMachine.Domain\obj\Debug\net8.0\VendingMachine.Domain.csproj.CoreCompileInputs.cache
+C:\powerbi\FlapKap\code\VendingMachine\src\VendingMachine.Domain\bin\Debug\net8.0\VendingMachine.Domain.deps.json
+C:\powerbi\FlapKap\code\VendingMachine\src\VendingMachine.Domain\bin\Debug\net8.0\VendingMachine.Domain.dll
+C:\powerbi\FlapKap\code\VendingMachine\src\VendingMachine.Domain\bin\Debug\net8.0\VendingMachine.Domain.pdb
+C:\powerbi\FlapKap\code\VendingMachine\src\VendingMachine.Domain\obj\Debug\net8.0\VendingMachine.Domain.dll
+C:\powerbi\FlapKap\code\VendingMachine\src\VendingMachine.Domain\obj\Debug\net8.0\refint\VendingMachine.Domain.dll
+C:\powerbi\FlapKap\code\VendingMachine\src\VendingMachine.Domain\obj\Debug\net8.0\VendingMachine.Domain.pdb
+C:\powerbi\FlapKap\code\VendingMachine\src\VendingMachine.Domain\obj\Debug\net8.0\ref\VendingMachine.Domain.dll

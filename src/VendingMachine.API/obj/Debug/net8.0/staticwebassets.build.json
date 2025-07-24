@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "FhEllVITV/R/on0Sno/ATbSSTBaqkRPC1cgC/tLx804=",
+  "Source": "VendingMachine.API",
+  "BasePath": "_content/VendingMachine.API",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}
