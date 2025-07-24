@@ -375,6 +375,6 @@ For questions and support:
 
 ---
 
-Generative AI Usage: This solution was developed with assistance from Claude AI to implement Clean Architecture patterns, CQRS design, comprehensive testing, and production-ready features.
+Generative AI Usage: This solution was developed by me and with assistance from Claude AI to implement Clean Architecture patterns, CQRS design, comprehensive testing, and production-ready features.
 
 *Built with ❤️ using .NET 8 and Clean Architecture*
