@@ -1,9 +1,3 @@
-C:\powerbi\FlapKap\code\VendingMachine\tests\VendingMachine.Tests\obj\Debug\net8.0\VendingMachine.Tests.csproj.AssemblyReference.cache
-C:\powerbi\FlapKap\code\VendingMachine\tests\VendingMachine.Tests\obj\Debug\net8.0\MvcTestingAppManifest.json
-C:\powerbi\FlapKap\code\VendingMachine\tests\VendingMachine.Tests\obj\Debug\net8.0\VendingMachine.Tests.GeneratedMSBuildEditorConfig.editorconfig
-C:\powerbi\FlapKap\code\VendingMachine\tests\VendingMachine.Tests\obj\Debug\net8.0\VendingMachine.Tests.AssemblyInfoInputs.cache
-C:\powerbi\FlapKap\code\VendingMachine\tests\VendingMachine.Tests\obj\Debug\net8.0\VendingMachine.Tests.AssemblyInfo.cs
-C:\powerbi\FlapKap\code\VendingMachine\tests\VendingMachine.Tests\obj\Debug\net8.0\VendingMachine.Tests.csproj.CoreCompileInputs.cache
 C:\powerbi\FlapKap\code\VendingMachine\tests\VendingMachine.Tests\bin\Debug\net8.0\testhost.dll
 C:\powerbi\FlapKap\code\VendingMachine\tests\VendingMachine.Tests\bin\Debug\net8.0\VendingMachine.API.deps.json
 C:\powerbi\FlapKap\code\VendingMachine\tests\VendingMachine.Tests\bin\Debug\net8.0\VendingMachine.API.runtimeconfig.json
@@ -514,10 +508,16 @@ C:\powerbi\FlapKap\code\VendingMachine\tests\VendingMachine.Tests\bin\Debug\net8
 C:\powerbi\FlapKap\code\VendingMachine\tests\VendingMachine.Tests\bin\Debug\net8.0\VendingMachine.Application.pdb
 C:\powerbi\FlapKap\code\VendingMachine\tests\VendingMachine.Tests\bin\Debug\net8.0\VendingMachine.Infrastructure.pdb
 C:\powerbi\FlapKap\code\VendingMachine\tests\VendingMachine.Tests\bin\Debug\net8.0\VendingMachine.Domain.pdb
+C:\powerbi\FlapKap\code\VendingMachine\tests\VendingMachine.Tests\obj\Debug\net8.0\VendingMachine.Tests.csproj.AssemblyReference.cache
+C:\powerbi\FlapKap\code\VendingMachine\tests\VendingMachine.Tests\obj\Debug\net8.0\MvcTestingAppManifest.json
+C:\powerbi\FlapKap\code\VendingMachine\tests\VendingMachine.Tests\obj\Debug\net8.0\VendingMachine.Tests.GeneratedMSBuildEditorConfig.editorconfig
+C:\powerbi\FlapKap\code\VendingMachine\tests\VendingMachine.Tests\obj\Debug\net8.0\VendingMachine.Tests.AssemblyInfoInputs.cache
+C:\powerbi\FlapKap\code\VendingMachine\tests\VendingMachine.Tests\obj\Debug\net8.0\VendingMachine.Tests.AssemblyInfo.cs
+C:\powerbi\FlapKap\code\VendingMachine\tests\VendingMachine.Tests\obj\Debug\net8.0\VendingMachine.Tests.csproj.CoreCompileInputs.cache
+C:\powerbi\FlapKap\code\VendingMachine\tests\VendingMachine.Tests\obj\Debug\net8.0\VendingMachine.Tests.sourcelink.json
 C:\powerbi\FlapKap\code\VendingMachine\tests\VendingMachine.Tests\obj\Debug\net8.0\VendingM.F3366D25.Up2Date
 C:\powerbi\FlapKap\code\VendingMachine\tests\VendingMachine.Tests\obj\Debug\net8.0\VendingMachine.Tests.dll
 C:\powerbi\FlapKap\code\VendingMachine\tests\VendingMachine.Tests\obj\Debug\net8.0\refint\VendingMachine.Tests.dll
 C:\powerbi\FlapKap\code\VendingMachine\tests\VendingMachine.Tests\obj\Debug\net8.0\VendingMachine.Tests.pdb
 C:\powerbi\FlapKap\code\VendingMachine\tests\VendingMachine.Tests\obj\Debug\net8.0\VendingMachine.Tests.genruntimeconfig.cache
 C:\powerbi\FlapKap\code\VendingMachine\tests\VendingMachine.Tests\obj\Debug\net8.0\ref\VendingMachine.Tests.dll
-C:\powerbi\FlapKap\code\VendingMachine\tests\VendingMachine.Tests\obj\Debug\net8.0\VendingMachine.Tests.sourcelink.json
