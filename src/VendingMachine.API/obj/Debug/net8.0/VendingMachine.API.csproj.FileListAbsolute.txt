@@ -133,3 +133,4 @@ C:\powerbi\FlapKap\code\VendingMachine\src\VendingMachine.API\obj\Debug\net8.0\r
 C:\powerbi\FlapKap\code\VendingMachine\src\VendingMachine.API\obj\Debug\net8.0\VendingMachine.API.pdb
 C:\powerbi\FlapKap\code\VendingMachine\src\VendingMachine.API\obj\Debug\net8.0\VendingMachine.API.genruntimeconfig.cache
 C:\powerbi\FlapKap\code\VendingMachine\src\VendingMachine.API\obj\Debug\net8.0\ref\VendingMachine.API.dll
+C:\powerbi\FlapKap\code\VendingMachine\src\VendingMachine.API\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
