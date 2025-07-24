@@ -127,7 +127,6 @@ C:\powerbi\FlapKap\code\VendingMachine\src\VendingMachine.API\obj\Debug\net8.0\s
 C:\powerbi\FlapKap\code\VendingMachine\src\VendingMachine.API\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.VendingMachine.API.props
 C:\powerbi\FlapKap\code\VendingMachine\src\VendingMachine.API\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.VendingMachine.API.props
 C:\powerbi\FlapKap\code\VendingMachine\src\VendingMachine.API\obj\Debug\net8.0\staticwebassets.pack.json
-C:\powerbi\FlapKap\code\VendingMachine\src\VendingMachine.API\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
 C:\powerbi\FlapKap\code\VendingMachine\src\VendingMachine.API\obj\Debug\net8.0\VendingM.832036AD.Up2Date
 C:\powerbi\FlapKap\code\VendingMachine\src\VendingMachine.API\obj\Debug\net8.0\VendingMachine.API.dll
 C:\powerbi\FlapKap\code\VendingMachine\src\VendingMachine.API\obj\Debug\net8.0\refint\VendingMachine.API.dll
